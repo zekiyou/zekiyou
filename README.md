@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rororwwww
-- 👀 I’m interested in Code
+- 👀 I’m zeki_you
 - 🌱 I’m currently learning C++
 
 <!---
