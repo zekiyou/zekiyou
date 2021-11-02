@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rororwwww
-- 👀 I’m zeki_you
+- 👀 I’m A Coder , A Gamer
 - 🌱 I’m currently learning C++
 
 <!---
